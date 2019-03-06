@@ -1,0 +1,22 @@
+{
+  "name": "ci-lab",
+  "version": "1.0.0",
+  "description": "simple lab to demonstrate CI",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ip999/CI-Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ip999/CI-Lab/issues"
+  },
+  "homepage": "https://github.com/ip999/CI-Lab#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}

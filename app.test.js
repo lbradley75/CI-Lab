@@ -27,3 +27,12 @@ test('multiply 2 * 2 to equal 4', () => {
 test('multiply 3 * 200 to equal 600', () => {
         expect(product(3, 200)).toBe(600);
 });
+
+
+// difference function
+
+test('difference function exists', () => {
+  expect(product).toBeDefined();
+});
+
+// add difference tests here...

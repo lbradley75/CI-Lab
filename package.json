@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ip999/CI-Lab#readme",
   "devDependencies": {
-    "jest": "^24.1.0"
+    "jest": "^24.0.0"
   }
 }

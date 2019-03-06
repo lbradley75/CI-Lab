@@ -11,8 +11,15 @@ function product(a, b) {
   return a * b;
 }
 
+//return the "difference" of 2 numbers
+function difference(a, b) {
+  return;
+}
+
+
 //export functions
 module.exports = {
     sum,
-    product
+    product,
+    difference //"minus"
 }

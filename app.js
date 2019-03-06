@@ -1,6 +1,18 @@
+//simple app
+
+//return the sum of 2 numbers
 function sum(a, b) {
   return a + b;
 }
 
-module.exports = sum;
-// comment
+
+//return the product of 2 numbers
+function product(a, b) {
+  return a * b;
+}
+
+//export functions
+module.exports = {
+    sum,
+    product
+}

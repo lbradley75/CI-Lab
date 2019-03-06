@@ -8,8 +8,8 @@ test('adds 100 + 100 to equal 200', () => {
         expect(sum(100, 100)).toBe(200);
 });
 
-test('multiply 1 * 10 to equal 10', () => {
-        expect(product(1, 10)).toBe(10);
+test('multiply 2 * 2 to equal 4', () => {
+        expect(product(2, 2)).toBe(4);
 });
 
 test('multiply 3 * 200 to equal 600', () => {

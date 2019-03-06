@@ -9,3 +9,5 @@ tests are configured in app.test.js
 
 
 circleCI integration is already set up
+
+slack also configured https://testing-o3b7189.slack.com

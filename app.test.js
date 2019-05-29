@@ -1,4 +1,4 @@
-const { sum, product } = require('./app');
+const { sum, product, difference } = require('./app');
 
 // sum function
 
@@ -32,7 +32,7 @@ test('multiply 3 * 200 to equal 600', () => {
 // difference function
 
 test('difference function exists', () => {
-  expect(product).toBeDefined();
+  expect(difference).toBeDefined();
 });
 
 // add difference tests here...

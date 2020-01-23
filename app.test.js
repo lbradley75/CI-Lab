@@ -34,5 +34,13 @@ test('multiply 3 * 200 to equal 600', () => {
 test('difference function exists', () => {
   expect(difference).toBeDefined();
 });
+ 
+test('subtract 200 - 50 to equal 150', () => {
+        expect(difference(200, 50)).toBe(150);
+});
+test('subtract 500 - 300 to equal 200', () => {
+        expect(difference(500, 300)).toBe(200);
+
+});
 
 // add difference tests here...

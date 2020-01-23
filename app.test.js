@@ -35,4 +35,12 @@ test('difference function exists', () => {
   expect(difference).toBeDefined();
 });
 
+test('subtract 10 - 2 to equal 8', () => {
+        expect(difference(10, 2)).toBe(8);
+});
+
+test('subtract 200 - 50 to equal 150', () => {
+        expect(product(200, 50)).toBe(150);
+});
+
 // add difference tests here...

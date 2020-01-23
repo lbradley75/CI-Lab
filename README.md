@@ -1,6 +1,6 @@
 # CI-Lab
 
-Latest test status: [![CircleCI](https://circleci.com/gh/ip999/CI-Lab.svg?style=svg)](https://circleci.com/gh/ip999/CI-Lab)
+Latest test status: [![CircleCI](https://circleci.com/gh/lbradley75/CI-Lab.svg?style=svg)](https://circleci.com/gh/lbradley75/CI-Lab)
 
 simple example to show the concept of Continuous Integration with CircleCI
 

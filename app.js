@@ -13,7 +13,7 @@ function product(a, b) {
 
 //return the "difference" of 2 numbers
 function difference(a, b) {
-  return;
+  return a - b;
 }
 
 
